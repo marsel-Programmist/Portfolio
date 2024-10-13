@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-  setlocale(LC_ALL, "RU")
+  setlocale(LC_ALL, "RU");
   int num;
   std::cout << "Загадай число от 1 до 10:\n";
   std::cin >> num;
